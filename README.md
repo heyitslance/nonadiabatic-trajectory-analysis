@@ -33,5 +33,6 @@ pip install ulamdyn numpy pandas scipy matplotlib h5py ase tqdm
 ## Notes
 - The files in this repository are sufficient to run the main analysis workflow.
 - Using the provided `.yml` files should reproduce the required Python versions automatically.
+- Please download the `.csv` files and place them in the same directory as the environment and code files before running the analysis.
 - Installing `ULaMDyn` is only necessary if you want to regenerate the raw processed files from the original trajectory data.
-- Please contact me at `zccazw1@ucl.ac.uk` if you need further assistance with processing the files.
+- Please feel free to contact me at `zccazw1@ucl.ac.uk` if you need further assistance with processing the files.
